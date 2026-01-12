@@ -43,4 +43,4 @@ Además, incluye archivos separados para estilos y lógica:
 ## Repositorio
 
 Repositorio público en GitHub:  
-https://github.com/TU_USUARIO/ecommerce-frontend-m2
+origin https://github.com/Arxelion/proyecto_e_commerce_portafolio.git
